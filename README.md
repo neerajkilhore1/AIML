@@ -1,1 +1,1 @@
-# GL_AIML
+AIML projects for Analytics, ML, NLP,  Computer vision (CNN)
