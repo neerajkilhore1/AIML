@@ -1,4 +1,4 @@
-# extract-images-from-pdf
+# Extract-images-from-pdf
 python script to extract jpg images from pdf
 
 ## How does it work
